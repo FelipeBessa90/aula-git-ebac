@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Felipe
+-Profissão: Sem Profissão no momento (estudando)
+-Cidade: Sao Paulo
+-O que faz nas horas vaga: fico a maior parte do meu tempo com meu filho
+-Feedback sobre o curso Qualidade de Software: Muito produtivo
+-Feedback sobre a plataforma de estudo da EBAC: Tem facil acesso
+
+Obrigado!!!
+
+
